@@ -14,6 +14,7 @@ public class BubbleSort {
                 }
             }
             if (!isSwapped) { return; }
+
         }
     }
     public static void main(String[] args) {

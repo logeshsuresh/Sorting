@@ -23,9 +23,9 @@ public class SelectionSort {
                 arr[i] = arr[minIndex];
                 arr[minIndex] = temp;
             }
-
         }
     }
+    
     public static void main(String[] args) {
         int[] arr = {15, 1, 6, 3, -1, 2, 10};
         System.out.println("Before sorting : " + Arrays.toString(arr));
